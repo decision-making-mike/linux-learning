@@ -1,12 +1,12 @@
-# Notes
-#   This learning material is intended to cover directories that exist in Linux distributions. But, there may be additional information that apply not to Linux distributions. They may instead apply to UNIX or other operating systems related to Linux.
-#   Info format is
-#       "Name
-#       ETY Name etymology notes
-#       SYM Symlink notes
-#       LOC Location notes
-#       RDI Related directories
-#       RSO Related software, standards, conventions, documentation, etc.".
+| Notes
+|   This learning material is intended to cover directories that exist in Linux distributions. But, there may be additional information that apply not to Linux distributions. They may instead apply to UNIX or other operating systems related to Linux.
+|   Info format is
+|       "Name
+|       ETY Name etymology notes
+|       SYM Symlink notes
+|       LOC Location notes
+|       RDI Related directories
+|       RSO Related software, standards, conventions, documentation, etc.".
 
 /
     /bin (11, 8)
@@ -266,18 +266,18 @@
         /var/yp (8)
         |RSO    NIS (8)
 
-# Sources and other related resources
-#   (1) RED https://en.wikipedia.org/wiki/Root_directory
-#   (2) RED https://unix.stackexchange.com/questions/204068/directory-structure-vs-file-system
-#   (3) ls(1)
-#   (4) which(1)
-#   (5) locate(1)
-#   (6) find(1)
-#   (7) RED https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03.html
-#   (8) RED hier(7)
-#   (9) ln(1)
-#   (10) TODO file-hierarchy(7)
-#   (11) https://en.wikipedia.org/wiki/Unix_filesystem
-#   (12) TODO https://en.wikipedia.org/wiki//boot
-#   (13) TODO https://en.wikipedia.org/wiki//dev
-#   (14) TODO proc(5)
+| Sources and other related resources
+|   (1) RED https://en.wikipedia.org/wiki/Root_directory
+|   (2) RED https://unix.stackexchange.com/questions/204068/directory-structure-vs-file-system
+|   (3) ls(1)
+|   (4) which(1)
+|   (5) locate(1)
+|   (6) find(1)
+|   (7) RED https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch03.html
+|   (8) RED hier(7)
+|   (9) ln(1)
+|   (10) TODO file-hierarchy(7)
+|   (11) https://en.wikipedia.org/wiki/Unix_filesystem
+|   (12) TODO https://en.wikipedia.org/wiki//boot
+|   (13) TODO https://en.wikipedia.org/wiki//dev
+|   (14) TODO proc(5)
