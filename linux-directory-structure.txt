@@ -4,7 +4,6 @@
 |       "Directory path
 |       |ETY Directory name etymology notes
 |       |SYM Symlink notes
-|       |LOC Directory location notes
 |       |RDI Related directories
 |       |RSO Related software, standards, conventions, documentation, etc.".
 
