@@ -1,10 +1,10 @@
 | Notes
 |   This learning material is intended to cover directories that exist in Linux distributions. But, there may be additional information that apply not to Linux distributions. They may instead apply to UNIX or other operating systems related to Linux.
-|   Info format is
-|       "Name
-|       |ETY Name etymology notes
+|   The format of an entry is
+|       "Directory path
+|       |ETY Directory name etymology notes
 |       |SYM Symlink notes
-|       |LOC Location notes
+|       |LOC Directory location notes
 |       |RDI Related directories
 |       |RSO Related software, standards, conventions, documentation, etc.".
 
