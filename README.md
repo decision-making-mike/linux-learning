@@ -1,3 +1,3 @@
 # Linux learning
 
-A blog documenting me learning of Linux
+A repository documenting me learning of Linux
